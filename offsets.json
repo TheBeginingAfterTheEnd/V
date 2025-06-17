@@ -1,0 +1,20 @@
+{
+     "LocalPlayer": "0x9451C0",
+     "EntityList": "0x967158",
+     "ViewMatrix": "0x7C0568",
+ 
+     "BoneMatrix": "0x1A98",
+     "Playername": "0x3744",
+     "SteamID": "0x37C8",
+     "m_hActiveWeapon": "0x2940",
+     "Weaponname": "0x1D00",
+     "m_iArmor": "0x1390",
+     
+     
+     "m_iTeamNum": "0xd4",
+     "m_szTeamname": "0x170C",
+
+     "Entityname": "0x1C98",
+ 
+     "Last Update": "17 Juin 2025"
+ }
