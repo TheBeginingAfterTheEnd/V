@@ -14,7 +14,8 @@
      "m_iTeamNum": "0xd4",
      "m_szTeamname": "0x170C",
 
-     "Entityname": "0x1C98",
+     "LuaNameEntity": "0x1C98",
+     "m_boneIndexAttached": "0x2060",
  
      "Last Update": "18 Juin 2025"
  }
